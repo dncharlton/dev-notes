@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Slices.md",
+                "file": "Go/Web Servers/ServeMux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Slices.md",
+                "file": "Go/Web Servers/ServeMux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Slices.md",
+                "file": "Go/Web Servers/ServeMux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/Slices.md"
+                "file": "Go/Web Servers/ServeMux.md"
               }
             }
           },
@@ -168,9 +168,12 @@
   },
   "active": "873b51a846ebb2b0",
   "lastOpenFiles": [
+    "Go/Slices.md",
+    "Go/Web Servers/ServeMux.md",
+    "Go/Untitled.md",
+    "Go/Web Servers",
     "README.md",
     "root.md",
-    "Go/Slices.md",
     "Go/Go.md",
     "Go/Generics.md",
     "Go/Mutexes.md",
@@ -195,8 +198,6 @@
     "Go/String Formatting.md",
     "Go/Loops.md",
     "Go/Interfaces.md",
-    "Go/Errors.md",
-    "Go/Conditionals.md",
     "Go/Structs",
     "CSS/attachments/min-demo.mp4",
     "CSS/attachments/max-demo.mp4",
@@ -212,7 +213,6 @@
     "CSS/attachments/Pasted image 20240105165135.png",
     "CSS/attachments/Pasted image 20240105164553.png",
     "CSS/attachments/Pasted image 20240105164435.png",
-    "CSS/attachments",
-    "CSS"
+    "CSS/attachments"
   ]
 }
