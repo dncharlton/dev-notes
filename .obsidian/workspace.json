@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Slices.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Slices.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Slices.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/Slices.md"
+                "file": "README.md"
               }
             }
           },
@@ -166,11 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ed8f4c6ab7c25f1",
+  "active": "873b51a846ebb2b0",
   "lastOpenFiles": [
+    "root.md",
+    "README.md",
+    "Go/Slices.md",
     "Go/Go.md",
     "Go/Generics.md",
-    "Go/Slices.md",
     "Go/Mutexes.md",
     "Go/Functions/Closures.md",
     "Go/Channels/Channels.md",
@@ -195,8 +197,6 @@
     "Go/Interfaces.md",
     "Go/Errors.md",
     "Go/Conditionals.md",
-    "TODO.md",
-    "root.md",
     "Go/Structs",
     "CSS/attachments/min-demo.mp4",
     "CSS/attachments/max-demo.mp4",

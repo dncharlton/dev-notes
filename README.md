@@ -14,11 +14,11 @@ tags:
 	- [ ] 7. Build a Maze Solver
 	- [ ] 8. Personal Project 1
 	- [x] 9. Learn JavaScript ✅ 2023-11-07
-	- [ ] 10. Learn HTTP
-	- [ ] 11. Build a Web Crawler
+	- [x] 10. Learn HTTP ✅ 2024-02-13
+	- [x] 11. Build a Web Crawler ✅ 2024-02-13
 	- [ ] 12. Personal Project 2
-	- [ ] 13. Learn Go
-	- [ ] 14. Build a Pokedex
+	- [x] 13. Learn Go ✅ 2024-02-13
+	- [x] 14. Build a Pokedex ✅ 2024-02-13
 	- [ ] 15. Learn Web Servers
 	- [ ] 16. Learn SQL
 	- [ ] 17. Build a Blog Aggregator
@@ -39,7 +39,6 @@ tags:
 - [ ] Go Specific
 
 Projects:
-- [ ] netezza log analyzer
 - [ ] shitpost site (docker server, docker SQL)
 - [ ] crypto site
 - [ ] typing test site with db
@@ -53,3 +52,11 @@ Projects:
 	- [ ] Website
 - [ ] https://vercel.com/?ref=theo
 	- [ ] Website
+
+
+#### CSS Pages
+[mdn web docs css](https://developer.mozilla.org/en-US/docs/Web/CSS/)
+[mdn web docs html](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[javascript.info](https://javascript.info/)
+[can i use](https://caniuse.com/)
+
