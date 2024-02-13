@@ -1,8 +1,3 @@
----
-tags:
-  - todo
----
-
 
 - [ ] Complete boot.dev ⏫ 
 	- [x] 1. Learn Python ✅ 2023-11-05
