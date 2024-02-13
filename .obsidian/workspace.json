@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "e7169f75e4f4b0e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "821004e861f062db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "873b51a846ebb2b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go/Slices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d05dc6687aeddbf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b59e87926e7ca54e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ed8f4c6ab7c25f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef3d15ec05c70ffa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "make",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c75feed8fd98b565",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.50390243530273
+  },
+  "right": {
+    "id": "6d99894d6ff994a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d9cfe1972f8a346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "370d53a8d923633e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Go/Slices.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d4446338e8de65b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Go/Slices.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bd98e04e60b1b61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44c5caad65e5800d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Go/Slices.md"
+              }
+            }
+          },
+          {
+            "id": "772918978190c9db",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec8eda923f00ca00",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "873b51a846ebb2b0",
+  "lastOpenFiles": [
+    "Go/Go.md",
+    "Go/Generics.md",
+    "Go/Slices.md",
+    "Go/Mutexes.md",
+    "Go/Functions/Closures.md",
+    "Go/Channels/Channels.md",
+    "Go/Channels/Concurrency.md",
+    "Go/Local Development/Local Dev Env.md",
+    "Go/Channels",
+    "Untitled.md",
+    "Go/Pointers.md",
+    "Go/Local Development",
+    "Go/Functions/Functions.md",
+    "Go/Functions/Currying.md",
+    "Go/Functions/Anonymous Functions.md",
+    "Go/Functions/Defer.md",
+    "Go/Functions/First class and higher order functions.md",
+    "Go/Functions",
+    "Go/Maps.md",
+    "Go/Structs/Structs.md",
+    "Go/Variadic.md",
+    "Go/Variables.md",
+    "Go/String Formatting.md",
+    "Go/Loops.md",
+    "Go/Interfaces.md",
+    "Go/Errors.md",
+    "Go/Conditionals.md",
+    "TODO.md",
+    "root.md",
+    "Go/Structs",
+    "CSS/attachments/min-demo.mp4",
+    "CSS/attachments/max-demo.mp4",
+    "CSS/attachments/clamp-demo.mp4",
+    "Javascript/attachments/Pasted image 20240106131955.png",
+    "Javascript/attachments/Pasted image 20240106131859.png",
+    "Javascript/HTML",
+    "CSS/attachments/Pasted image 20240105165946.png",
+    "CSS/attachments/Pasted image 20240105165809.png",
+    "CSS/attachments/Pasted image 20240105165438.png",
+    "CSS/attachments/Pasted image 20240105165256.png",
+    "CSS/attachments/Pasted image 20240105165226.png",
+    "CSS/attachments/Pasted image 20240105165135.png",
+    "CSS/attachments/Pasted image 20240105164553.png",
+    "CSS/attachments/Pasted image 20240105164435.png",
+    "CSS/attachments",
+    "CSS"
+  ]
+}
