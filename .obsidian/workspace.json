@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Web Servers/Server.md",
+                "file": "Shells/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Web Servers/Server.md",
+                "file": "Shells/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Web Servers/Server.md",
+                "file": "Shells/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/Web Servers/Server.md"
+                "file": "Shells/Untitled.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "873b51a846ebb2b0",
   "lastOpenFiles": [
-    "Go/Slices.md",
     "Go/Web Servers/Server.md",
+    "Shells/Untitled.md",
+    "Shells",
+    "Go/Slices.md",
     "Go/Untitled.md",
     "Go/Web Servers",
     "README.md",
@@ -197,7 +199,6 @@
     "Go/Variables.md",
     "Go/String Formatting.md",
     "Go/Loops.md",
-    "Go/Interfaces.md",
     "Go/Structs",
     "CSS/attachments/min-demo.mp4",
     "CSS/attachments/max-demo.mp4",
@@ -212,7 +213,6 @@
     "CSS/attachments/Pasted image 20240105165226.png",
     "CSS/attachments/Pasted image 20240105165135.png",
     "CSS/attachments/Pasted image 20240105164553.png",
-    "CSS/attachments/Pasted image 20240105164435.png",
-    "CSS/attachments"
+    "CSS/attachments/Pasted image 20240105164435.png"
   ]
 }
