@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shells/Untitled.md",
+                "file": "HTML & CSS/Fonts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shells/Untitled.md",
+                "file": "HTML & CSS/Fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shells/Untitled.md",
+                "file": "HTML & CSS/Fonts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shells/Untitled.md"
+                "file": "HTML & CSS/Fonts.md"
               }
             }
           },
@@ -166,10 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "873b51a846ebb2b0",
+  "active": "5ed8f4c6ab7c25f1",
   "lastOpenFiles": [
-    "Go/Web Servers/Server.md",
+    "HTML & CSS/Flex.md",
+    "HTML & CSS/CSS Reset.md",
+    "HTML & CSS/Box Model.md",
+    "Data Structures/Trees/Red-Black Tree.md",
     "Shells/Untitled.md",
+    "Go/Web Servers/Server.md",
     "Shells",
     "Go/Slices.md",
     "Go/Untitled.md",
@@ -195,24 +199,20 @@
     "Go/Functions",
     "Go/Maps.md",
     "Go/Structs/Structs.md",
-    "Go/Variadic.md",
-    "Go/Variables.md",
-    "Go/String Formatting.md",
-    "Go/Loops.md",
     "Go/Structs",
-    "CSS/attachments/min-demo.mp4",
-    "CSS/attachments/max-demo.mp4",
-    "CSS/attachments/clamp-demo.mp4",
+    "HTML & CSS/attachments/min-demo.mp4",
+    "HTML & CSS/attachments/max-demo.mp4",
+    "HTML & CSS/attachments/clamp-demo.mp4",
     "Javascript/attachments/Pasted image 20240106131955.png",
     "Javascript/attachments/Pasted image 20240106131859.png",
     "Javascript/HTML",
-    "CSS/attachments/Pasted image 20240105165946.png",
-    "CSS/attachments/Pasted image 20240105165809.png",
-    "CSS/attachments/Pasted image 20240105165438.png",
-    "CSS/attachments/Pasted image 20240105165256.png",
-    "CSS/attachments/Pasted image 20240105165226.png",
-    "CSS/attachments/Pasted image 20240105165135.png",
-    "CSS/attachments/Pasted image 20240105164553.png",
-    "CSS/attachments/Pasted image 20240105164435.png"
+    "HTML & CSS/attachments/Pasted image 20240105165946.png",
+    "HTML & CSS/attachments/Pasted image 20240105165809.png",
+    "HTML & CSS/attachments/Pasted image 20240105165438.png",
+    "HTML & CSS/attachments/Pasted image 20240105165256.png",
+    "HTML & CSS/attachments/Pasted image 20240105165226.png",
+    "HTML & CSS/attachments/Pasted image 20240105165135.png",
+    "HTML & CSS/attachments/Pasted image 20240105164553.png",
+    "HTML & CSS/attachments/Pasted image 20240105164435.png"
   ]
 }
