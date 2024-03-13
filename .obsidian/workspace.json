@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML & CSS/Fonts.md",
+                "file": "Javascript/HTTP Status Codes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML & CSS/Fonts.md",
+                "file": "Javascript/HTTP Status Codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML & CSS/Fonts.md",
+                "file": "Javascript/HTTP Status Codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML & CSS/Fonts.md"
+                "file": "Javascript/HTTP Status Codes.md"
               }
             }
           },
@@ -166,10 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ed8f4c6ab7c25f1",
+  "active": "873b51a846ebb2b0",
   "lastOpenFiles": [
-    "HTML & CSS/Flex.md",
+    "Javascript/HTTP Methods.md",
+    "HTML & CSS/Functions.md",
+    "HTML & CSS/Inclusion Methods.md",
     "HTML & CSS/CSS Reset.md",
+    "HTML & CSS/CheatSheet.md",
+    "HTML & CSS/Fonts.md",
+    "HTML & CSS/Flex.md",
     "HTML & CSS/Box Model.md",
     "Data Structures/Trees/Red-Black Tree.md",
     "Shells/Untitled.md",
@@ -193,12 +198,7 @@
     "Go/Local Development",
     "Go/Functions/Functions.md",
     "Go/Functions/Currying.md",
-    "Go/Functions/Anonymous Functions.md",
-    "Go/Functions/Defer.md",
-    "Go/Functions/First class and higher order functions.md",
     "Go/Functions",
-    "Go/Maps.md",
-    "Go/Structs/Structs.md",
     "Go/Structs",
     "HTML & CSS/attachments/min-demo.mp4",
     "HTML & CSS/attachments/max-demo.mp4",
