@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/HTTP Status Codes.md",
+                "file": "Go/Functions/Defer.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "make",
+                "query": "defer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/HTTP Status Codes.md",
+                "file": "Go/Functions/Defer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/HTTP Status Codes.md",
+                "file": "Go/Functions/Defer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/HTTP Status Codes.md"
+                "file": "Go/Functions/Defer.md"
               }
             }
           },
@@ -168,6 +169,7 @@
   },
   "active": "873b51a846ebb2b0",
   "lastOpenFiles": [
+    "Javascript/HTTP Status Codes.md",
     "Javascript/HTTP Methods.md",
     "HTML & CSS/Functions.md",
     "HTML & CSS/Inclusion Methods.md",
@@ -197,7 +199,6 @@
     "Go/Pointers.md",
     "Go/Local Development",
     "Go/Functions/Functions.md",
-    "Go/Functions/Currying.md",
     "Go/Functions",
     "Go/Structs",
     "HTML & CSS/attachments/min-demo.mp4",
