@@ -11,5 +11,6 @@
 	1. An entity should never be forced to implement an interface that contains elements which it will never use.
 	2. e.g. a `Penguin` should never be forced to implement a `Bird` interface if that `Bird` interface includes functionality relating to flying, as penguins cannot fly.
 5. Dependency Inversion
-6. 
+	1. High level code should never depend on low level interfaces and should instead use abstractions. It is all about decoupling code.
+
 
