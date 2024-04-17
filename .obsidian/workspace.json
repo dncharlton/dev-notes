@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/SOLID.md",
+                "file": "React/Components/Component Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/SOLID.md",
+                "file": "React/Components/Component Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/SOLID.md",
+                "file": "React/Components/Component Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/SOLID.md"
+                "file": "React/Components/Component Basics.md"
               }
             }
           },
@@ -168,8 +168,11 @@
   },
   "active": "873b51a846ebb2b0",
   "lastOpenFiles": [
-    "Go/Functions/Defer.md",
     "Javascript/SOLID.md",
+    "React/Components/Component Basics.md",
+    "React/Components",
+    "React",
+    "Go/Functions/Defer.md",
     "Javascript/HTTP Status Codes.md",
     "Javascript/HTTP Methods.md",
     "HTML & CSS/Functions.md",
@@ -196,16 +199,13 @@
     "Go/Channels/Concurrency.md",
     "Go/Local Development/Local Dev Env.md",
     "Go/Channels",
-    "Untitled.md",
     "Go/Local Development",
     "Go/Functions",
     "Go/Structs",
     "HTML & CSS/attachments/min-demo.mp4",
     "HTML & CSS/attachments/max-demo.mp4",
-    "HTML & CSS/attachments/clamp-demo.mp4",
     "Javascript/attachments/Pasted image 20240106131955.png",
     "Javascript/attachments/Pasted image 20240106131859.png",
-    "Javascript/HTML",
     "HTML & CSS/attachments/Pasted image 20240105165946.png",
     "HTML & CSS/attachments/Pasted image 20240105165809.png",
     "HTML & CSS/attachments/Pasted image 20240105165438.png",
