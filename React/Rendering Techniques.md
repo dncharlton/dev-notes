@@ -1,4 +1,4 @@
-Rendering a list of elements in JSX
+#### Rendering a list of elements in JSX
 
 ```jsx
 function App() {
@@ -53,3 +53,19 @@ function App() {
 }
 ```
 
+
+#### Rendering a list of components in JSX
+
+```jsx
+function ListItem(props) {
+  return <li>{props.animal}</li>
+} 
+
+function List(props) {
+  return (
+    <ul>
+      {props.animals.map((animal)}
+	</ul>
+  )
+}
+```
