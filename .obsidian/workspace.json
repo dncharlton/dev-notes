@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Components/Component Basics.md",
+                "file": "React/Component Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Components/Component Basics.md",
+                "file": "React/Component Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Components/Component Basics.md",
+                "file": "React/Component Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Components/Component Basics.md"
+                "file": "React/Component Basics.md"
               }
             }
           },
@@ -166,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "873b51a846ebb2b0",
+  "active": "5ed8f4c6ab7c25f1",
   "lastOpenFiles": [
     "Javascript/SOLID.md",
-    "React/Components/Component Basics.md",
+    "React/Component Basics.md",
     "React/Components",
     "React",
     "Go/Functions/Defer.md",
