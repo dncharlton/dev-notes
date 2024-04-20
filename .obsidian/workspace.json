@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Component Basics.md",
+                "file": "React/Rules of JSX.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Component Basics.md",
+                "file": "React/Rules of JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Component Basics.md",
+                "file": "React/Rules of JSX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Component Basics.md"
+                "file": "React/Rules of JSX.md"
               }
             }
           },
@@ -166,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ed8f4c6ab7c25f1",
+  "active": "873b51a846ebb2b0",
   "lastOpenFiles": [
-    "Javascript/SOLID.md",
     "React/Component Basics.md",
+    "React/Rules of JSX.md",
+    "Javascript/SOLID.md",
     "React/Components",
     "React",
     "Go/Functions/Defer.md",
@@ -197,7 +198,6 @@
     "Go/Functions/Closures.md",
     "Go/Channels/Channels.md",
     "Go/Channels/Concurrency.md",
-    "Go/Local Development/Local Dev Env.md",
     "Go/Channels",
     "Go/Local Development",
     "Go/Functions",
