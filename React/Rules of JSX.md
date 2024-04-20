@@ -56,7 +56,7 @@ Converting HTML to JSX Example:
 
 1. Add single root element
 2. Close li and input tags
-3. camelCase 
+3. camelCase class and stroke-width
 
 ```jsx
 <div>
