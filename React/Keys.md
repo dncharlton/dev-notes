@@ -1,3 +1,7 @@
+
+Using a key with below TODO list example, when the "key" is updated for any reason, React will match the keys of the previous list to the updates list.
+If there are any changed, React will only update the items that have changed. This is more dynamic than using a custom prop such as `todo={todos}`.
+
 Keys are passed into the component or a DOM element as a prop.
 ```jsx
 <Component key={keyValue} />
@@ -25,3 +29,4 @@ function TodoList() {
 }
 ```
 
+It is good practice to ensure that a unique ID is assigned to items in a list. Whether this is being handled by DB or yourself in frontend, this should be attached somehow.
