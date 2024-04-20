@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Rules of JSX.md",
+                "file": "React/Rendering Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Rules of JSX.md",
+                "file": "React/Rendering Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Rules of JSX.md",
+                "file": "React/Rendering Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Rules of JSX.md"
+                "file": "React/Rendering Techniques.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "873b51a846ebb2b0",
   "lastOpenFiles": [
-    "React/Component Basics.md",
     "React/Rules of JSX.md",
+    "React/Rendering Techniques.md",
+    "React/Component Basics.md",
     "Javascript/SOLID.md",
     "React/Components",
     "React",
@@ -197,7 +198,6 @@
     "Go/Mutexes.md",
     "Go/Functions/Closures.md",
     "Go/Channels/Channels.md",
-    "Go/Channels/Concurrency.md",
     "Go/Channels",
     "Go/Local Development",
     "Go/Functions",
