@@ -108,3 +108,69 @@ function Button({ text = "Click Me!", color = "blue", fontSize = 12 }) {
   return <button style={buttonStyle}>{text}</button>;
 }
 ```
+
+#### Functions as props
+
+In addition to passing variables as props, you can also pass functions as props
+For example:
+```jsx
+function Button({ text = "Click Me!", color = "blue", fontSize = 12, handleClick }) {
+  const buttonStyle = {
+    color: color,
+    fontSize: fontSize + "px"
+  };
+
+  return (
+    <button onClick={handleClick} style={buttonStyle}>
+      {text}
+    </button>
+  );
+}
+
+export default function App() {
+  const handleButtonClick = () => {
+    window.location.href = "http://www.google.com";
+  };
+
+  return (
+    <div>
+      <Button handleClick={handleButtonClick} />
+    </div>
+  );
+}
+```
+
+Here we can see the function `handleButtonClick` being defined in `App()`, on creation of the button, we are passing `handleClick` prop with `handleButtonClick` function.
+However in the `Button` component, we simple have to call `handClick` prop as a function to call the passed prop function.
+
+There a few things to not here:
+- We only pass through a reference to `handleButtonCLick` if we were to do something like `handleClick={handleButtonClick()}` the function would be called as the button renders.
+- You can rename the function to whatever you like when passing through as props, the prop name and value do not need to be the same.
+- Every `Button` calling this function will navigate to the same page, We can refactor the function and supply and argument with `Button` to customize this functionality:
+```jsx
+function Button({ text = "Click Me!", color = "blue", fontSize = 12, handleClick }) {
+  const buttonStyle = {
+    color: color,
+    fontSize: fontSize + "px"
+  };
+
+  return (
+    <button onClick={() => handleClick('https://www.theodinproject.com')} style={buttonStyle}>
+      {text}
+    </button>
+  );
+}
+
+export default function App() {
+  const handleButtonClick = (url) => {
+    window.location.href = url;
+  };
+
+  return (
+    <div>
+      <Button handleClick={handleButtonClick} />
+    </div>
+  );
+}
+```
+
