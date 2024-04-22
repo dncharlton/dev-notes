@@ -66,6 +66,43 @@ https://react.dev/learn/state-a-components-memory
 https://react.dev/learn/render-and-commit
 
 
+#### How to structure state
+General rule: Don't put values in state that can be calculated using existing values, state, and/or props
 
+##### State should not be mutated
+State should be treated as though it were immutable, to change the state we should always use the `setState` function provided by our `useState`.
+```jsx
+function Person() {
+  const [person, setPerson] = useState({ name: "John", age: 100 });
+
+  // BAD - Don't do this!
+  const handleIncreaseAge = () => {
+    // mutating the current state object
+    person.age = person.age + 1;
+    setPerson(person);
+  };
+
+  // GOOD - Do this!
+  const handleIncreaseAge = () => {
+    // copy the existing person object into a new object
+    // while updating the age property
+    const newPerson = { ...person, age: person.age + 1 };
+    setPerson(newPerson);
+  };
+
+  return (
+    <>
+      <h1>{person.name}</h1>
+      <h2>{person.age}</h2>
+      <button onClick={handleIncreaseAge}>Increase age</button>
+    </>
+  );
+}
+```
+
+Using above example, we would only update the state with the `setPerson` function.
+We can see that rather than mutating the `person` state variable, we create an updated copy of the current state, and then set the state using the new state object.
+
+#### How State updated
 
 
