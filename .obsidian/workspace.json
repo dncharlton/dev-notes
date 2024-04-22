@@ -168,8 +168,12 @@
   },
   "active": "873b51a846ebb2b0",
   "lastOpenFiles": [
-    "React/Props.md",
+    "Javascript/URL elements.md",
     "React/State.md",
+    "React/attachments/background_update.png",
+    "React/attachments/background_update.png.crdownload",
+    "React/attachments",
+    "React/Props.md",
     "React/Keys.md",
     "React/Rendering Techniques.md",
     "React/Rules of JSX.md",
@@ -197,13 +201,10 @@
     "README.md",
     "root.md",
     "Go/Go.md",
-    "Go/Generics.md",
     "Go/Channels",
     "Go/Local Development",
     "Go/Functions",
     "Go/Structs",
-    "HTML & CSS/attachments/min-demo.mp4",
-    "HTML & CSS/attachments/max-demo.mp4",
     "Javascript/attachments/Pasted image 20240106131955.png",
     "Javascript/attachments/Pasted image 20240106131859.png",
     "HTML & CSS/attachments/Pasted image 20240105165946.png",
@@ -212,7 +213,6 @@
     "HTML & CSS/attachments/Pasted image 20240105165256.png",
     "HTML & CSS/attachments/Pasted image 20240105165226.png",
     "HTML & CSS/attachments/Pasted image 20240105165135.png",
-    "HTML & CSS/attachments/Pasted image 20240105164553.png",
-    "HTML & CSS/attachments/Pasted image 20240105164435.png"
+    "HTML & CSS/attachments/Pasted image 20240105164553.png"
   ]
 }
