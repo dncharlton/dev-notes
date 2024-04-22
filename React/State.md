@@ -103,6 +103,40 @@ function Person() {
 Using above example, we would only update the state with the `setPerson` function.
 We can see that rather than mutating the `person` state variable, we create an updated copy of the current state, and then set the state using the new state object.
 
-#### How State updated
+#### How State updates
+State updates are asynchronous. What this implies is that whenever you call the `setState` function, React will apply the update in the **next** component render.
+State variables aren't reactive, the component is. This can be understood by the fact that calling `setState` re-renders the entire component instead of just the state variable on the fly.
+
+Example:
+```jsx
+function Person() {
+  const [person, setPerson] = useState({ name: "John", age: 100 });
+
+  const handleIncreaseAge = () => {
+    console.log("in handleIncreaseAge (before setPerson call): ", person);
+    setPerson({ ...person, age: person.age + 1 });
+    // we've called setPerson, surely person has updated?
+    console.log("in handleIncreaseAge (after setPerson call): ", person);
+  };
+
+  // this console.log runs every time the component renders
+  // what do you think this will print?
+  console.log("during render: ", person);
+
+  return (
+    <>
+      <h1>{person.name}</h1>
+      <h2>{person.age}</h2>
+      <button onClick={handleIncreaseAge}>Increase age</button>
+    </>
+  );
+}
+```
+![[setPerson.png]]
+
+We can see from the logging of the code, after `setPerson` is called, the component is re-rendered, thereby skipping the line:
+```jsx
+console.log("in handleIncreaseAge (after setPerson call): ", person);
+```
 
 
