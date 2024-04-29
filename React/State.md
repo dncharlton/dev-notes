@@ -1,6 +1,6 @@
 
 In React, when a component's state or props change, the component is destroyed and recreated from scratch. This includes variables, functions and React nodes.
-The entire component is recreated but this time the latest state value will be returned from `useState`. This process is called rerendering.
+The entire component is recreated but this time the latest state value will be returned from `useState`. This process is called re-rendering.
 
 #### The useState Hook
 The `useState` hook is a built-in hook in React that allows you to define state in a functional component.
