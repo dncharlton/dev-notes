@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/State.md",
+                "file": "React/Component Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/State.md",
+                "file": "React/Component Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/State.md",
+                "file": "React/Component Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/State.md"
+                "file": "React/Component Basics.md"
               }
             }
           },
@@ -168,10 +168,12 @@
   },
   "active": "873b51a846ebb2b0",
   "lastOpenFiles": [
+    "React/Rendering Techniques.md",
+    "React/Component Basics.md",
+    "React/State.md",
     "React/attachments/AirDroid_Desktop_Client_3.7.2.0.dmg",
     "React/attachments/Unconfirmed 149524.crdownload",
     "React/attachments/2015-pajero-sport.pdf",
-    "React/State.md",
     "React/attachments/2015-pajero-sport.pdf.crdownload",
     "React/attachments/UG-MX1.4-Supplement.pdf",
     "React/attachments/setPerson.png",
@@ -181,9 +183,7 @@
     "React/attachments",
     "React/Props.md",
     "React/Keys.md",
-    "React/Rendering Techniques.md",
     "React/Rules of JSX.md",
-    "React/Component Basics.md",
     "Javascript/SOLID.md",
     "React/Components",
     "React",
@@ -203,7 +203,6 @@
     "Shells",
     "Go/Slices.md",
     "Go/Untitled.md",
-    "Go/Web Servers",
     "README.md",
     "root.md",
     "Javascript/attachments/Pasted image 20240106131955.png",
