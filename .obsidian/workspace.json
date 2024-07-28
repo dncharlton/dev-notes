@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "821004e861f062db",
+        "id": "f4430bc40d0494ed",
         "type": "tabs",
         "children": [
           {
-            "id": "873b51a846ebb2b0",
+            "id": "e6c88d26e0b9a501",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Component Basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Component Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Component Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/Component Basics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,11 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "873b51a846ebb2b0",
+  "active": "5ed8f4c6ab7c25f1",
   "lastOpenFiles": [
+    "React/Component Basics.md",
     "React/attachments/Print Invoice KN112971.pdf",
     "React/Rendering Techniques.md",
-    "React/Component Basics.md",
     "React/State.md",
     "React/attachments/AirDroid_Desktop_Client_3.7.2.0.dmg",
     "React/attachments/Unconfirmed 149524.crdownload",
@@ -201,7 +193,6 @@
     "Data Structures/Trees/Red-Black Tree.md",
     "Shells/Untitled.md",
     "Go/Web Servers/Server.md",
-    "Shells",
     "Go/Slices.md",
     "Go/Untitled.md",
     "README.md",
