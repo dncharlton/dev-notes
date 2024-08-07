@@ -3,6 +3,7 @@ tags:
   - algorithm/search
   - python
 ---
+![[Search Animations.gif]]
 
 - `O(log(n))`
 -  Fast sorting algorithm, memory heavy as it needs a single copy of the array
