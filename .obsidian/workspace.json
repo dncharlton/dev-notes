@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/2 - Search/Binary Search.md",
+                "file": "HTML & CSS/Emmet.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ae6fac378421e85e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/2 - Search/Binary Search.md",
+                "file": "HTML & CSS/Emmet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/2 - Search/Binary Search.md",
+                "file": "HTML & CSS/Emmet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/2 - Search/Binary Search.md"
+                "file": "HTML & CSS/Emmet.md"
               }
             }
           },
@@ -177,8 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae6fac378421e85e",
+  "active": "e6c88d26e0b9a501",
   "lastOpenFiles": [
+    "HTML & CSS/Tables.md",
+    "HTML & CSS/Emmet.md",
+    "HTML & CSS/SVG.md",
+    "HTML & CSS/Pasted image 20240918093150.png",
+    "HTML & CSS/Pasted image 20240918093118.png",
+    "HTML & CSS/Pasted image 20240918093108.png",
+    "Algorithms/2 - Search/Binary Search.md",
     "Algorithms/2 - Search/attachments/Search Animations.gif",
     "React/Component Basics.md",
     "React/attachments/Print Invoice KN112971.pdf",
@@ -214,16 +210,9 @@
     "Shells/Untitled.md",
     "Go/Web Servers/Server.md",
     "Go/Slices.md",
-    "Go/Untitled.md",
-    "README.md",
-    "root.md",
     "Javascript/attachments/Pasted image 20240106131955.png",
     "Javascript/attachments/Pasted image 20240106131859.png",
     "HTML & CSS/attachments/Pasted image 20240105165946.png",
-    "HTML & CSS/attachments/Pasted image 20240105165809.png",
-    "HTML & CSS/attachments/Pasted image 20240105165438.png",
-    "HTML & CSS/attachments/Pasted image 20240105165256.png",
-    "HTML & CSS/attachments/Pasted image 20240105165226.png",
-    "HTML & CSS/attachments/Pasted image 20240105165135.png"
+    "HTML & CSS/attachments/Pasted image 20240105165809.png"
   ]
 }
