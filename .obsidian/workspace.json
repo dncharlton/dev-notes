@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML & CSS/Emmet.md",
+                "file": "HTML & CSS/Tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML & CSS/Emmet.md",
+                "file": "HTML & CSS/Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML & CSS/Emmet.md",
+                "file": "HTML & CSS/Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML & CSS/Emmet.md"
+                "file": "HTML & CSS/Tables.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "e6c88d26e0b9a501",
   "lastOpenFiles": [
-    "HTML & CSS/Tables.md",
     "HTML & CSS/Emmet.md",
+    "HTML & CSS/Tables.md",
     "HTML & CSS/SVG.md",
     "HTML & CSS/Pasted image 20240918093150.png",
     "HTML & CSS/Pasted image 20240918093118.png",
