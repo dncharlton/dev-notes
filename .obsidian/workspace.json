@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f4430bc40d0494ed",
+        "id": "574f423287531595",
         "type": "tabs",
         "children": [
           {
-            "id": "e6c88d26e0b9a501",
+            "id": "081bc7a3418f5d29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML & CSS/Tables.md",
+                "file": "HTML & CSS/Inclusion Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML & CSS/Tables.md",
+                "file": "HTML & CSS/Inclusion Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML & CSS/Tables.md",
+                "file": "HTML & CSS/Inclusion Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML & CSS/Tables.md"
+                "file": "HTML & CSS/Inclusion Methods.md"
               }
             }
           },
@@ -166,14 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6c88d26e0b9a501",
+  "active": "081bc7a3418f5d29",
   "lastOpenFiles": [
-    "HTML & CSS/Emmet.md",
     "HTML & CSS/Tables.md",
+    "HTML & CSS/attachments/Pasted image 20240918105738.png",
     "HTML & CSS/SVG.md",
-    "HTML & CSS/Pasted image 20240918093150.png",
-    "HTML & CSS/Pasted image 20240918093118.png",
-    "HTML & CSS/Pasted image 20240918093108.png",
+    "HTML & CSS/attachments/Pasted image 20240918093108.png",
+    "HTML & CSS/attachments/Pasted image 20240918103750.png",
+    "HTML & CSS/Emmet.md",
+    "HTML & CSS/attachments/Pasted image 20240918093150.png",
+    "HTML & CSS/attachments/Pasted image 20240918093118.png",
     "Algorithms/2 - Search/Binary Search.md",
     "Algorithms/2 - Search/attachments/Search Animations.gif",
     "React/Component Basics.md",
@@ -209,10 +211,7 @@
     "Data Structures/Trees/Red-Black Tree.md",
     "Shells/Untitled.md",
     "Go/Web Servers/Server.md",
-    "Go/Slices.md",
     "Javascript/attachments/Pasted image 20240106131955.png",
-    "Javascript/attachments/Pasted image 20240106131859.png",
-    "HTML & CSS/attachments/Pasted image 20240105165946.png",
-    "HTML & CSS/attachments/Pasted image 20240105165809.png"
+    "Javascript/attachments/Pasted image 20240106131859.png"
   ]
 }
