@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML & CSS/Units.md",
+                "file": "Javascript/Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML & CSS/Units.md",
+                "file": "Javascript/Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML & CSS/Units.md",
+                "file": "Javascript/Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML & CSS/Units.md"
+                "file": "Javascript/Objects.md"
               }
             }
           },
@@ -168,6 +168,9 @@
   },
   "active": "081bc7a3418f5d29",
   "lastOpenFiles": [
+    "HTML & CSS/Selectors.md",
+    "Javascript/Objects.md",
+    "HTML & CSS/Units.md",
     "HTML & CSS/CSS Reset.md",
     "HTML & CSS/Inclusion Methods.md",
     "HTML & CSS/Tables.md",
@@ -209,8 +212,6 @@
     "HTML & CSS/Flex.md",
     "HTML & CSS/Box Model.md",
     "Data Structures/Trees/Red-Black Tree.md",
-    "Shells/Untitled.md",
-    "Go/Web Servers/Server.md",
     "Javascript/attachments/Pasted image 20240106131955.png",
     "Javascript/attachments/Pasted image 20240106131859.png"
   ]
