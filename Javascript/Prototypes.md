@@ -83,15 +83,21 @@ To summarise, all JavaScript objects have a hidden, internal `[[Prototype]]` p
 
 These prototypes can be chained, and each additional object will inherit everything throughout the chain. The chain ends with the `Object.prototype`.
 
-### Cons\tructor Functions
+### Constructor Functions
 ```js
 function Hero(name, level) {
   this.name = name;
-  this.level = leve;
+  this.level = level;
 }
 
 let hero1 = new Hero('Bjorn', 1);
+
+/*
+console.log(hero1)
+Hero { name: 'Bjorn', level: 1 }
+*/
 ```
+
 
 
 **Example**
