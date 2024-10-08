@@ -96,7 +96,17 @@ let hero1 = new Hero('Bjorn', 1);
 console.log(hero1)
 Hero { name: 'Bjorn', level: 1 }
 */
+
+
+Object.getPrototypeOf(hero1);
+/*
+Output
+constructor: f Hero(name, level)
+*/
 ```
+
+Output will only show defined properties and not methods in the constructor. It is common practice in JavaScript to define methods on the prototype for increased efficiency and code readability.
+
 
 
 
