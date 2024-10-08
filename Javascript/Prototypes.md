@@ -107,8 +107,62 @@ constructor: f Hero(name, level)
 
 Output will only show defined properties and not methods in the constructor. It is common practice in JavaScript to define methods on the prototype for increased efficiency and code readability.
 
+We can add a method to `Hero` using `protoype`.
+```js
+Hero.prototype.greet = function() {
+  return `${this.name} says hello.`
+}
 
+hero1.greet();
 
+/*
+Output
+"Bjorn says hello."
+*/
+```
+
+We can use the `.call()` function to extend new objects to prior prototypes. However the prototype methods are not automatically linked so we need to use `Object.setPropertyOf()` to link the properties to the parent constructor.
+
+This would be the full code:
+```js
+// Initialize constructor functions
+function Hero(name, level) {
+  this.name = name;
+  this.level = level;
+}
+
+function Warrior(name, level, weapon) {
+  Hero.call(this, name, level);
+
+  this.weapon = weapon;
+}
+
+function Healer(name, level, spell) {
+  Hero.call(this, name, level);
+
+  this.spell = spell;
+}
+
+// Link prototypes and add prototype methods
+Object.setPrototypeOf(Warrior.prototype, Hero.prototype);
+Object.setPrototypeOf(Healer.prototype, Hero.prototype);
+
+Hero.prototype.greet = function () {
+  return `${this.name} says hello.`;
+}
+
+Warrior.prototype.attack = function () {
+  return `${this.name} attacks with the ${this.weapon}.`;
+}
+
+Healer.prototype.heal = function () {
+  return `${this.name} casts ${this.spell}.`;
+}
+
+// Initialize individual character instances
+const hero1 = new Warrior('Bjorn', 1, 'axe');
+const hero2 = new Healer('Kanin', 1, 'cure');
+```
 
 **Example**
 ```javascript
