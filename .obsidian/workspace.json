@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Prototypes.md",
+                "file": "Javascript/Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Prototypes.md",
+                "file": "Javascript/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Prototypes.md",
+                "file": "Javascript/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Prototypes.md"
+                "file": "Javascript/Functions.md"
               }
             }
           },
@@ -168,50 +168,50 @@
   },
   "active": "081bc7a3418f5d29",
   "lastOpenFiles": [
+    "Javascript/Factory Functions.md",
+    "Javascript/Functions.md",
+    "Javascript/Events.md",
+    "Javascript/Classes.md",
+    "Javascript/Dev Tools.md",
+    "Javascript/DOM Document Object Model.md",
+    "HTML & CSS/SVG.md",
+    "HTML & CSS/Selectors.md",
+    "HTML & CSS/Positioning.md",
+    "HTML & CSS/Inclusion Methods.md",
+    "HTML & CSS/Functions.md",
+    "HTML & CSS/Frameworks and Preprocessors.md",
+    "HTML & CSS/Forms.md",
+    "HTML & CSS/Fonts.md",
+    "HTML & CSS/FlexBox.md",
+    "HTML & CSS/Flex.md",
+    "HTML & CSS/Emmet.md",
+    "HTML & CSS/Custom Properties.md",
+    "HTML & CSS/CSS Reset.md",
+    "HTML & CSS/CheatSheet.md",
+    "HTML & CSS/Cascade.md",
+    "HTML & CSS/Box Model.md",
+    "Javascript/URL elements.md",
+    "Javascript/For.md",
     "Javascript/Prototypes.md",
     "Javascript/Objects.md",
-    "HTML & CSS/Selectors.md",
-    "HTML & CSS/Units.md",
-    "HTML & CSS/CSS Reset.md",
-    "HTML & CSS/Inclusion Methods.md",
-    "HTML & CSS/Tables.md",
     "HTML & CSS/attachments/Pasted image 20240918105738.png",
-    "HTML & CSS/SVG.md",
     "HTML & CSS/attachments/Pasted image 20240918093108.png",
     "HTML & CSS/attachments/Pasted image 20240918103750.png",
-    "HTML & CSS/Emmet.md",
     "HTML & CSS/attachments/Pasted image 20240918093150.png",
     "HTML & CSS/attachments/Pasted image 20240918093118.png",
-    "Algorithms/2 - Search/Binary Search.md",
     "Algorithms/2 - Search/attachments/Search Animations.gif",
-    "React/Component Basics.md",
     "React/attachments/Print Invoice KN112971.pdf",
-    "React/Rendering Techniques.md",
-    "React/State.md",
     "React/attachments/AirDroid_Desktop_Client_3.7.2.0.dmg",
     "React/attachments/Unconfirmed 149524.crdownload",
     "React/attachments/2015-pajero-sport.pdf",
     "React/attachments/2015-pajero-sport.pdf.crdownload",
     "React/attachments/UG-MX1.4-Supplement.pdf",
     "React/attachments/setPerson.png",
-    "Javascript/URL elements.md",
     "React/attachments/background_update.png",
     "React/attachments/background_update.png.crdownload",
     "React/attachments",
-    "React/Props.md",
-    "React/Keys.md",
-    "React/Rules of JSX.md",
-    "Javascript/SOLID.md",
     "React/Components",
     "React",
-    "Go/Functions/Defer.md",
-    "Javascript/HTTP Status Codes.md",
-    "Javascript/HTTP Methods.md",
-    "HTML & CSS/Functions.md",
-    "HTML & CSS/CheatSheet.md",
-    "HTML & CSS/Fonts.md",
-    "HTML & CSS/Flex.md",
-    "HTML & CSS/Box Model.md",
     "Javascript/attachments/Pasted image 20240106131955.png",
     "Javascript/attachments/Pasted image 20240106131859.png"
   ]

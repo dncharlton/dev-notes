@@ -1,0 +1,2 @@
+- `for...in` iterates over the **keys** (index positions in an array).
+- `for...of` iterates over the **values** (the actual objects or values in the array).
