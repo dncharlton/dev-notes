@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/DOM Document Object Model.md",
+                "file": "Javascript/Factory Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/DOM Document Object Model.md",
+                "file": "Javascript/Factory Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/DOM Document Object Model.md",
+                "file": "Javascript/Factory Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/DOM Document Object Model.md"
+                "file": "Javascript/Factory Functions.md"
               }
             }
           },
@@ -166,15 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ed8f4c6ab7c25f1",
+  "active": "081bc7a3418f5d29",
   "lastOpenFiles": [
+    "Javascript/DOM Document Object Model.md",
     "Javascript/Events.md",
     "Javascript/Dev Tools.md",
     "Javascript/Property getters and setters.md",
     "Javascript/Factory Functions.md",
     "Javascript/Functions.md",
     "Javascript/Classes.md",
-    "Javascript/DOM Document Object Model.md",
     "HTML & CSS/SVG.md",
     "HTML & CSS/Selectors.md",
     "HTML & CSS/Positioning.md",
