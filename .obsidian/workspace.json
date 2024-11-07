@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Factory Functions.md",
+                "file": "Git/Porcelain and Plumbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Factory Functions.md",
+                "file": "Git/Porcelain and Plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Factory Functions.md",
+                "file": "Git/Porcelain and Plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Factory Functions.md"
+                "file": "Git/Porcelain and Plumbing.md"
               }
             }
           },
@@ -166,14 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ed8f4c6ab7c25f1",
+  "active": "081bc7a3418f5d29",
   "lastOpenFiles": [
+    "Javascript/Factory Functions.md",
+    "Git/Porcelain and Plumbing.md",
     "Git",
     "Javascript/DOM Document Object Model.md",
     "Javascript/Events.md",
     "Javascript/Dev Tools.md",
     "Javascript/Property getters and setters.md",
-    "Javascript/Factory Functions.md",
     "Javascript/Functions.md",
     "Javascript/Classes.md",
     "HTML & CSS/SVG.md",
@@ -211,7 +212,6 @@
     "React/attachments/background_update.png.crdownload",
     "React/attachments",
     "React/Components",
-    "React",
     "Javascript/attachments/Pasted image 20240106131955.png",
     "Javascript/attachments/Pasted image 20240106131859.png"
   ]
