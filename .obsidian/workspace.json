@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "574f423287531595",
+        "id": "fef38e40866aef0d",
         "type": "tabs",
         "children": [
           {
-            "id": "081bc7a3418f5d29",
+            "id": "3c170cb8a062f364",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/Penetration Testing/Process.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Process"
+              "title": "New tab"
             }
           }
         ]
@@ -198,10 +194,16 @@
   },
   "active": "5ed8f4c6ab7c25f1",
   "lastOpenFiles": [
+    "CompTIA/Security+/CompTIA Security+ SY0-701 Study Guide.pdf",
+    "CompTIA/Security+/CompTIA Security+ SY0-701 Exam Objectives.pdf",
+    "CompTIA/Security+/CompTIA Security+ SY0-701 Study Plan.pdf",
+    "CompTIA/Security+",
+    "CompTIA",
+    "Cyber Security/Penetration Testing/Process.md",
+    "Untitled.md",
     "Cyber Security/attachments",
     "Cyber Security/attachments/Pasted image 20241209123506.png",
     "Git/Cat-File.md",
-    "Cyber Security/Penetration Testing/Process.md",
     "Cyber Security/Penetration Testing",
     "Cyber Security",
     "Development/Shells/Untitled.md",
@@ -210,15 +212,12 @@
     "Development/React/attachments/setPerson.png",
     "Development/React/attachments/background_update.png",
     "Development/React/attachments/Print Invoice KN112971.pdf",
-    "Development/React/attachments",
     "Development/React/State.md",
     "Development/React/Rules of JSX.md",
     "Development/React/Rendering Techniques.md",
     "Development/React/Props.md",
     "Development/React/Keys.md",
     "Development/React/Component Basics.md",
-    "Development/React",
-    "Development/Python",
     "Development/LeetCode/Easy/83. Remove Duplicates from Sorted List.md",
     "Development/LeetCode/Easy/70. Climbing Stairs.md",
     "Development/LeetCode/Easy/69. Sqrt(x).md",
@@ -233,14 +232,11 @@
     "Development/LeetCode/Easy/20. Valid Parentheses.md",
     "Development/LeetCode/Easy/14. Longest Common Prefix.md",
     "Development/LeetCode/Easy/13. Roman to Integer.md",
-    "Development/LeetCode/Easy",
-    "Development/LeetCode",
     "Development/Javascript/Async/attachments/async.png",
     "Development/Javascript/attachments/URL Elements.png",
     "Development/Javascript/attachments/Pasted image 20240106131955.png",
     "Development/Javascript/attachments/Pasted image 20240106131859.png",
     "Development/Javascript/Async/Promises.md",
-    "Development/Javascript/Async/Fetch Methods.md",
     "Development/HTML & CSS/attachments/padding-margin-border.png",
     "Development/HTML & CSS/attachments/Pasted image 20240918105738.png",
     "Development/HTML & CSS/attachments/Pasted image 20240918103750.png"
