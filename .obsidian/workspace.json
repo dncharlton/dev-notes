@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fef38e40866aef0d",
+        "id": "66dba37c8fc2a824",
         "type": "tabs",
         "children": [
           {
-            "id": "3c170cb8a062f364",
+            "id": "973019974504c13c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,10 +192,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ed8f4c6ab7c25f1",
+  "active": "973019974504c13c",
   "lastOpenFiles": [
-    "CompTIA/Security+/CompTIA Security+ SY0-701 Study Guide.pdf",
     "CompTIA/Security+/CompTIA Security+ SY0-701 Exam Objectives.pdf",
+    "CompTIA/Security+/CompTIA Security+ SY0-701 Study Guide.pdf",
+    "CompTIA/Network+/CompTIA Network+ N10-009 Study Plan.pdf",
+    "CompTIA/Network+/CompTIA Network N10-009 Exam Objectives.pdf",
+    "CompTIA/Network+/CompTIA Network+ N10-009 Study Guide.pdf",
+    "CompTIA/Network+",
     "CompTIA/Security+/CompTIA Security+ SY0-701 Study Plan.pdf",
     "CompTIA/Security+",
     "CompTIA",
@@ -205,13 +209,9 @@
     "Cyber Security/attachments/Pasted image 20241209123506.png",
     "Git/Cat-File.md",
     "Cyber Security/Penetration Testing",
-    "Cyber Security",
     "Development/Shells/Untitled.md",
-    "Development/Shells",
-    "Development/Rust",
     "Development/React/attachments/setPerson.png",
     "Development/React/attachments/background_update.png",
-    "Development/React/attachments/Print Invoice KN112971.pdf",
     "Development/React/State.md",
     "Development/React/Rules of JSX.md",
     "Development/React/Rendering Techniques.md",
