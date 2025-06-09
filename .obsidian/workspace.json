@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "66dba37c8fc2a824",
+        "id": "e8b3ee20e6588dd1",
         "type": "tabs",
         "children": [
           {
-            "id": "973019974504c13c",
+            "id": "ebf465b5348e22f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Development/Data Structures/Linked List.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Linked List"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "linked list",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,8 +197,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "973019974504c13c",
+  "active": "ebf465b5348e22f0",
   "lastOpenFiles": [
+    "Development/Go/Structs/Structs.md",
+    "Development/Go/Structs/Struct Methods.md",
+    "Development/Go/Channels/Channels.md",
+    "Development/Go/Channels/Concurrency.md",
+    "Development/Git/Porcelain and Plumbing.md",
+    "Development/Git/Cat-File.md",
+    "Development/Data Structures/Tries.md",
+    "Development/Data Structures/Stack.md",
+    "Development/Data Structures/Queue.md",
+    "Development/Data Structures/Linked List.md",
+    "Development/Data Structures/Hashmap.md",
+    "Development/Data Structures/Trees/Unbalanced Tree.md",
+    "Development/Data Structures/Trees/Tree.md",
+    "Development/Data Structures/Trees/Red-Black Tree.md",
+    "Development/Data Structures/Trees/Binary Tree.md",
+    "Development/Data Structures/Trees/Balanced tree.md",
+    "Development/Data Structures/Graphs/Graphs.md",
+    "Development/Data Structures/Graphs/Adjacency Matrix.md",
+    "Development/Data Structures/Graphs/Adjacency List.md",
+    "Development/Algorithms/Algo Notes/Algorithm Categories.md",
+    "Development/Algorithms/Algo Notes/Exponential Time.md",
+    "Development/Algorithms/Algo Notes/Polynomial Time.md",
+    "Development/Algorithms/Algo Notes/Factorial Time.md",
     "CompTIA/Security+/CompTIA Security+ SY0-701 Exam Objectives.pdf",
     "CompTIA/Security+/CompTIA Security+ SY0-701 Study Guide.pdf",
     "CompTIA/Network+/CompTIA Network+ N10-009 Study Plan.pdf",
@@ -208,35 +236,12 @@
     "Cyber Security/attachments",
     "Cyber Security/attachments/Pasted image 20241209123506.png",
     "Git/Cat-File.md",
-    "Cyber Security/Penetration Testing",
-    "Development/Shells/Untitled.md",
     "Development/React/attachments/setPerson.png",
     "Development/React/attachments/background_update.png",
-    "Development/React/State.md",
-    "Development/React/Rules of JSX.md",
-    "Development/React/Rendering Techniques.md",
-    "Development/React/Props.md",
-    "Development/React/Keys.md",
-    "Development/React/Component Basics.md",
-    "Development/LeetCode/Easy/83. Remove Duplicates from Sorted List.md",
-    "Development/LeetCode/Easy/70. Climbing Stairs.md",
-    "Development/LeetCode/Easy/69. Sqrt(x).md",
-    "Development/LeetCode/Easy/67.  Add Binary.md",
-    "Development/LeetCode/Easy/66. Plus One.md",
-    "Development/LeetCode/Easy/58. Length of Last Word.md",
-    "Development/LeetCode/Easy/35. Search Insert Position.md",
-    "Development/LeetCode/Easy/28. Find the Index of the First Occurrence in a String.md",
-    "Development/LeetCode/Easy/27. Remove Element.md",
-    "Development/LeetCode/Easy/26. Remove Duplicates from Sorted Array.md",
-    "Development/LeetCode/Easy/21. Merge Two Sorted Lists.md",
-    "Development/LeetCode/Easy/20. Valid Parentheses.md",
-    "Development/LeetCode/Easy/14. Longest Common Prefix.md",
-    "Development/LeetCode/Easy/13. Roman to Integer.md",
     "Development/Javascript/Async/attachments/async.png",
     "Development/Javascript/attachments/URL Elements.png",
     "Development/Javascript/attachments/Pasted image 20240106131955.png",
     "Development/Javascript/attachments/Pasted image 20240106131859.png",
-    "Development/Javascript/Async/Promises.md",
     "Development/HTML & CSS/attachments/padding-margin-border.png",
     "Development/HTML & CSS/attachments/Pasted image 20240918105738.png",
     "Development/HTML & CSS/attachments/Pasted image 20240918103750.png"
