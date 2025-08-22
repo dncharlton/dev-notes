@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Linked List"
             }
+          },
+          {
+            "id": "55e2eed288d4d48b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +210,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ebf465b5348e22f0",
+  "active": "55e2eed288d4d48b",
   "lastOpenFiles": [
     "Development/Go/Structs/Structs.md",
     "Development/Go/Structs/Struct Methods.md",
